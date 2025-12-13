@@ -30,34 +30,27 @@ My core focus is on enhancing **system reliability** and applying emerging techn
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
-### Languages & Frameworks
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+### Backend & Core
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,maven,gradle&theme=dark" />
+<br/>
+<i>Robust enterprise solutions with Java ecosystem.</i>
 
 ### DevOps & Cloud
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,githubactions,elasticsearch,grafana&theme=dark" />
+<br/>
+<i>Scalable deployment, CI/CD pipelines, and observability.</i>
 
 ### Tools & IDEs
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=idea,vscode,git&theme=dark" />
+<br/>
+<i>Proficient with <b>IntelliJ</b>, <b>VS Code</b>, and <b>Cursor IDE</b> for AI-pair programming.</i>
 
 ### AI & Automation
-<img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Antigravity-Agent-8A2BE2?style=for-the-badge&logo=google-gemini&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=n8n,gemini,openai&theme=dark" />
+<br/>
+<i>Automating workflows with <b>n8n</b> and building agents with <b>Antigravity (Gemini)</b> & OpenAI.</i>
 
 </div>
 
@@ -73,5 +66,5 @@ My core focus is on enhancing **system reliability** and applying emerging techn
 <br />
 
 <div align="center">
-  Made with ❤️ by Rafał Zieliński
+  Made with ❤️ by Rafał Zieliński & Antigravity
 </div>

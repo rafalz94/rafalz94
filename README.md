@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://rafalzielinski.dev" target="_blank">
-    <img src="assets/photo.png" alt="Rafał Zieliński" width="200" style="border-radius: 50%;" />
-  </a>
+
 
   <h1 align="center">Hi there, I'm Rafał Zieliński 👋</h1>
   <h3 align="center">Java Software Developer | AI Specialist</h3>

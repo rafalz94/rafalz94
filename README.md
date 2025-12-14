@@ -32,25 +32,101 @@ My core focus is on enhancing **system reliability** and applying emerging techn
 
 <div align="center">
 
-### Backend & Core
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,maven,gradle&theme=dark" />
-<br/>
-<i>Robust enterprise solutions with Java ecosystem.</i>
+<h3>Backend & Core</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate" />
+      <br>Hibernate
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
+      <br>Maven
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="Gradle" />
+      <br>Gradle
+    </td>
+  </tr>
+</table>
 
-### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,githubactions,elasticsearch,grafana&theme=dark" />
-<br/>
-<i>Scalable deployment, CI/CD pipelines, and observability.</i>
+<h3>DevOps & Cloud</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+      <br>Google Cloud
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="Actions" />
+      <br>GitHub Actions
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elastic" />
+      <br>Elasticsearch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
+      <br>Grafana
+    </td>
+  </tr>
+</table>
 
-### Tools & IDEs
-<img src="https://skillicons.dev/icons?i=idea,vscode,git&theme=dark" />
-<br/>
-<i>Proficient with <b>IntelliJ</b>, <b>VS Code</b>, and <b>Cursor IDE</b> for AI-pair programming.</i>
+<h3>Tools & IDEs</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+      <br>IntelliJ IDEA
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
 
-### AI & Automation
-<img src="https://skillicons.dev/icons?i=n8n,gemini,openai&theme=dark" />
-<br/>
-<i>Automating workflows with <b>n8n</b> and building agents with <b>Antigravity (Gemini)</b> & OpenAI.</i>
+<h3>AI & Automation</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=n8n" width="48" height="48" alt="n8n" />
+      <br>n8n
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gemini" width="48" height="48" alt="Antigravity" />
+      <br>Antigravity<br>(Gemini)
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=openai" width="48" height="48" alt="OpenAI" />
+      <br>OpenAI
+    </td>
+  </tr>
+</table>
 
 </div>
 

@@ -70,6 +70,10 @@ My core focus is on enhancing **system reliability** and applying emerging techn
       <br>Google Cloud
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
@@ -78,16 +82,26 @@ My core focus is on enhancing **system reliability** and applying emerging techn
       <br>Kubernetes
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="Actions" />
-      <br>GitHub Actions
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elastic" />
       <br>Elasticsearch
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
       <br>Grafana
+    </td>
+  </tr>
+</table>
+
+<h3>Testing</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=junit" width="48" height="48" alt="JUnit" />
+      <br>JUnit 5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mockito" width="48" height="48" alt="Mockito" />
+      <br>Mockito
     </td>
   </tr>
 </table>
@@ -104,26 +118,12 @@ My core focus is on enhancing **system reliability** and applying emerging techn
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
-
-<h3>AI & Automation</h3>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=n8n" width="48" height="48" alt="n8n" />
-      <br>n8n
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gemini" width="48" height="48" alt="Antigravity" />
-      <br>Antigravity<br>(Gemini)
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=openai" width="48" height="48" alt="OpenAI" />
-      <br>OpenAI
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
     </td>
   </tr>
 </table>

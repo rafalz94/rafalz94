@@ -127,11 +127,11 @@ My core focus is on enhancing **system reliability** and applying emerging techn
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=junit" width="48" height="48" alt="JUnit" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="48" height="48" alt="JUnit" />
       <br>JUnit 5
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mockito" width="48" height="48" alt="Mockito" />
+      <img src="https://www.vectorlogo.zone/logos/mockito/mockito-icon.svg" width="48" height="48" alt="Mockito" />
       <br>Mockito
     </td>
   </tr>
@@ -167,15 +167,15 @@ My core focus is on enhancing **system reliability** and applying emerging techn
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
       <br>Pandas
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
       <br>NumPy
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=matplotlib" width="48" height="48" alt="Matplotlib" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
       <br>Matplotlib
     </td>
   </tr>
@@ -195,5 +195,5 @@ My core focus is on enhancing **system reliability** and applying emerging techn
 <br />
 
 <div align="center">
-  Made with ❤️ by Rafał Zieliński & Antigravity
+  Made by Rafał Zieliński & Antigravity
 </div>

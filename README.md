@@ -2,7 +2,7 @@
 
 
   <h1 align="center">Hi there, I'm Rafał Zieliński 👋</h1>
-  <h3 align="center">Java Software Developer | AI Specialist</h3>
+  <h3 align="center">Software Developer | AI Specialist | Cybersecurity Enthusiast</h3>
 </div>
 
 <p align="center">
@@ -131,7 +131,7 @@ My core focus is on enhancing **system reliability** and applying emerging techn
       <br>JUnit 5
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/mockito/mockito-icon.svg" width="48" height="48" alt="Mockito" />
+      <img src="assets/mockito.png" width="48" height="48" alt="Mockito" />
       <br>Mockito
     </td>
   </tr>
@@ -195,5 +195,5 @@ My core focus is on enhancing **system reliability** and applying emerging techn
 <br />
 
 <div align="center">
-  Made by Rafał Zieliński & Antigravity
+  Made by Rafał Zieliński
 </div>
